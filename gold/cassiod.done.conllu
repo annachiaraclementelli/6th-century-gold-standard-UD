@@ -1,0 +1,821 @@
+# sent_id = 1
+# text = Cum disertorum gratiam aut communibus fabulis aut gratuitis beneficiis, nullis tamen veris meritis collegissem, dicta mea, quae in honoribus saepe positus pro explicanda negotiorum qualitate profuderam, in unum corpus redigere suadebant, ut ventura posteritas et laborum meorum molestias, quas pro generalitatis commodo sustinebam, et sinceris conscientiae inemptam dinosceret actionem.
+1	Cum	_	SCONJ	_	_	15	mark	_	_
+2	disertorum	_	NOUN	_	_	3	nmod	_	_
+3	gratiam	_	NOUN	_	_	15	obj	_	_
+4	aut	_	CCONJ	_	_	6	cc	_	_
+5	communibus	_	ADJ	_	_	6	amod	_	_
+6	fabulis	_	NOUN	_	_	15	obl	_	_
+7	aut	_	CCONJ	_	_	9	cc	_	_
+8	gratuitis	_	ADJ	_	_	9	amod	_	_
+9	beneficiis	_	NOUN	_	_	6	conj	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	nullis	_	ADJ	_	_	14	amod	_	_
+12	tamen	_	ADV	_	_	14	advmod	_	_
+13	veris	_	ADJ	_	_	14	amod	_	_
+14	meritis	_	NOUN	_	_	6	conj	_	_
+15	collegissem	_	VERB	_	_	35	advcl	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	dicta	_	VERB	_	_	34	obj	_	_
+18	mea	_	DET	_	_	17	det	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	29	punct	_	_
+20	quae	_	PRON	_	_	29	nsubj	_	_
+21	in	_	ADP	_	_	22	case	_	_
+22	honoribus	_	NOUN	_	_	24	obl	_	_
+23	saepe	_	ADV	_	_	24	advmod	_	_
+24	positus	_	VERB	_	_	29	advcl:pred	_	_
+25	pro	_	ADP	_	_	28	case	_	_
+26	explicanda	_	VERB	_	_	28	acl	_	_
+27	negotiorum	_	NOUN	_	_	28	nmod	_	_
+28	qualitate	_	NOUN	_	_	29	obl	_	_
+29	profuderam	_	VERB	_	_	17	acl:relcl	_	SpaceAfter=No
+30	,	_	PUNCT	_	_	29	punct	_	_
+31	in	_	ADP	_	_	33	case	_	_
+32	unum	_	NUM	_	_	33	nummod	_	_
+33	corpus	_	NOUN	_	_	34	obl:lmod	_	_
+34	redigere	_	VERB	_	_	35	xcomp	_	_
+35	suadebant	_	VERB	_	_	0	root	_	SpaceAfter=No
+36	,	_	PUNCT	_	_	35	punct	_	_
+37	ut	_	SCONJ	_	_	55	mark	_	_
+38	ventura	_	VERB	_	_	39	acl	_	_
+39	posteritas	_	NOUN	_	_	55	nsubj	_	_
+40	et	_	CCONJ	_	_	41	cc	_	_
+41	laborum	_	NOUN	_	_	43	nmod	_	_
+42	meorum	_	DET	_	_	41	det	_	_
+43	molestias	_	NOUN	_	_	55	obj	_	SpaceAfter=No
+44	,	_	PUNCT	_	_	49	punct	_	_
+45	quas	_	PRON	_	_	49	obj	_	_
+46	pro	_	ADP	_	_	47	case	_	_
+47	generalitatis	_	NOUN	_	_	49	obl	_	_
+48	commodo	_	ADV	_	_	49	advmod	_	_
+49	sustinebam	_	VERB	_	_	43	acl:relcl	_	SpaceAfter=No
+50	,	_	PUNCT	_	_	49	punct	_	_
+51	et	_	CCONJ	_	_	56	cc	_	_
+52	sinceris	_	ADJ	_	_	53	amod	_	_
+53	conscientiae	_	NOUN	_	_	56	nmod	_	_
+54	inemptam	_	ADJ	_	_	56	amod	_	_
+55	dinosceret	_	VERB	_	_	35	advcl	_	_
+56	actionem	_	NOUN	_	_	43	conj	_	SpaceAfter=No
+57	.	_	PUNCT	_	_	55	punct	_	_
+
+# sent_id = 2
+# text = Dicebam dilectionem ipsorum mihi potius fore contrariam, ut, quod modo propter desideria supplicantium putabatur acceptum, postea legentibus videretur insubidum.
+1	Dicebam	_	VERB	_	_	0	root	_	_
+2	dilectionem	_	NOUN	_	_	6	nsubj	_	_
+3	ipsorum	_	DET	_	_	2	det	_	_
+4	mihi	_	PRON	_	_	6	obl	_	_
+5	potius	_	ADV	_	_	6	advmod	_	_
+6	fore	_	VERB	_	_	1	ccomp	_	_
+7	contrariam	_	ADJ	_	_	6	xcomp	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	1	punct	_	_
+9	ut	_	SCONJ	_	_	21	mark	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	16	punct	_	_
+11	quod	_	PRON	_	_	16	nsubj	_	_
+12	modo	_	ADV	_	_	16	advmod	_	_
+13	propter	_	ADP	_	_	14	case	_	_
+14	desideria	_	NOUN	_	_	16	obl	_	_
+15	supplicantium	_	NOUN	_	_	14	nmod	_	_
+16	putabatur	_	VERB	_	_	21	csubj:relcl	_	_
+17	acceptum	_	VERB	_	_	16	xcomp	_	SpaceAfter=No
+18	,	_	PUNCT	_	_	16	punct	_	_
+19	postea	_	ADV	_	_	21	advmod:tmod	_	_
+20	legentibus	_	VERB	_	_	21	obl	_	_
+21	videretur	_	VERB	_	_	1	advcl	_	_
+22	insubidum	_	ADJ	_	_	21	xcomp	_	SpaceAfter=No
+23	.	_	PUNCT	_	_	21	punct	_	_
+
+# sent_id = 3
+# text = addebam debere illos Flacci dicta recolere, qui monet, quid periculi vox praecipitata possit incurrere.
+1	addebam	_	VERB	_	_	0	root	_	_
+2	debere	_	VERB	_	_	1	ccomp	_	_
+3	illos	_	DET	_	_	2	nsubj	_	_
+4	Flacci	_	NOUN	_	_	5	nmod	_	_
+5	dicta	_	VERB	_	_	6	obj	_	_
+6	recolere	_	VERB	_	_	2	xcomp	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	9	punct	_	_
+8	qui	_	PRON	_	_	9	nsubj	_	_
+9	monet	_	VERB	_	_	4	acl:relcl	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	9	punct	_	_
+11	quid	_	PRON	_	_	15	obj	_	_
+12	periculi	_	NOUN	_	_	11	nmod	_	_
+13	vox	_	NOUN	_	_	15	nsubj	_	_
+14	praecipitata	_	VERB	_	_	13	nmod	_	_
+15	possit	_	VERB	_	_	9	ccomp	_	_
+16	incurrere	_	VERB	_	_	15	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 4
+# text = Respondendi celeritatem cunctos videtis exigere, et creditis me impaenitenda proferre?
+1	Respondendi	_	VERB	_	_	2	nmod	_	_
+2	celeritatem	_	NOUN	_	_	5	obj	_	_
+3	cunctos	_	DET	_	_	5	nsubj	_	_
+4	videtis	_	VERB	_	_	0	root	_	_
+5	exigere	_	VERB	_	_	4	ccomp	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	et	_	CCONJ	_	_	8	cc	_	_
+8	creditis	_	VERB	_	_	4	conj	_	_
+9	me	_	PRON	_	_	11	nsubj	_	_
+10	impaenitenda	_	VERB	_	_	11	obj	_	_
+11	proferre	_	VERB	_	_	8	ccomp	_	SpaceAfter=No
+12	?	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 5
+# text = dictio semper agrestis est, quae aut sensibus electis per moram non comitur aut verborum minime proprietatibus explicatur.
+1	dictio	_	NOUN	_	_	3	nsubj	_	_
+2	semper	_	ADV	_	_	3	advmod:tmod	_	_
+3	agrestis	_	ADJ	_	_	0	root	_	_
+4	est	_	AUX	_	_	3	cop	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	3	punct	_	_
+6	quae	_	PRON	_	_	13	nsubj	_	_
+7	aut	_	CCONJ	_	_	13	cc	_	_
+8	sensibus	_	NOUN	_	_	13	obl	_	_
+9	electis	_	VERB	_	_	8	acl	_	_
+10	per	_	ADP	_	_	11	case	_	_
+11	moram	_	NOUN	_	_	13	obl	_	_
+12	non	_	PART	_	_	13	advmod:neg	_	_
+13	comitur	_	VERB	_	_	1	acl:relcl	_	_
+14	aut	_	CCONJ	_	_	18	cc	_	_
+15	verborum	_	NOUN	_	_	17	nmod	_	_
+16	minime	_	ADV	_	_	18	advmod	_	_
+17	proprietatibus	_	NOUN	_	_	18	obl	_	_
+18	explicatur	_	VERB	_	_	13	conj	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 6
+# text = loqui nobis communiter datum est:
+1	loqui	_	VERB	_	_	4	nsubj	_	_
+2	nobis	_	PRON	_	_	4	obl	_	_
+3	communiter	_	ADV	_	_	4	advmod	_	_
+4	datum	_	VERB	_	_	0	root	_	_
+5	est	_	AUX	_	_	4	cop	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 7
+# text = solus ornatus est, qui discernit indoctos.
+1	solus	_	ADJ	_	_	2	amod	_	_
+2	ornatus	_	ADJ	_	_	0	root	_	_
+3	est	_	AUX	_	_	2	cop	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	2	punct	_	_
+5	qui	_	PRON	_	_	6	nsubj	_	_
+6	discernit	_	VERB	_	_	2	orphan	_	_
+7	indoctos	_	ADJ	_	_	6	obj	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 8
+# text = Nonus annus ad scribendum relaxatur auctoribus:
+1	Nonus	_	NUM	_	_	2	nummod	_	_
+2	annus	_	NOUN	_	_	5	nsubj:pass	_	_
+3	ad	_	ADP	_	_	4	case	_	_
+4	scribendum	_	VERB	_	_	5	advcl	_	_
+5	relaxatur	_	VERB	_	_	0	root	_	_
+6	auctoribus	_	NOUN	_	_	5	obl:agent	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 9
+# text = mihi nec horarum momenta praestantur:
+1	mihi	_	PRON	_	_	5	obl	_	_
+2	nec	_	ADV	_	_	5	advmod:neg	_	_
+3	horarum	_	NOUN	_	_	4	nmod	_	_
+4	momenta	_	NOUN	_	_	5	nsubj	_	_
+5	praestantur	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 10
+# text = mox ut coepero, clamoribus imminetur et festinatione nimia geritur, ne cautius coepta peragantur.
+1	mox	_	ADV	_	_	3	advmod:tmod	_	_
+2	ut	_	CCONJ	_	_	3	mark	_	_
+3	coepero	_	VERB	_	_	6	advcl	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	clamoribus	_	NOUN	_	_	6	obl:agent	_	_
+6	imminetur	_	VERB	_	_	0	root	_	_
+7	et	_	CCONJ	_	_	10	cc	_	_
+8	festinatione	_	NOUN	_	_	10	obl:agent	_	_
+9	nimia	_	ADJ	_	_	8	amod	_	_
+10	geritur	_	VERB	_	_	6	conj	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	ne	_	SCONJ	_	_	15	mark	_	_
+13	cautius	_	ADJ	_	_	15	xcomp	_	_
+14	coepta	_	VERB	_	_	15	advcl	_	_
+15	peragantur	_	VERB	_	_	6	advcl	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 11
+# text = alter nos frequentia invidiosae interpellationis exaggerat:
+1	alter	_	NOUN	_	_	6	nsubj	_	_
+2	nos	_	PRON	_	_	6	obj	_	_
+3	frequentia	_	NOUN	_	_	6	obl	_	_
+4	invidiosae	_	ADJ	_	_	5	amod	_	_
+5	interpellationis	_	NOUN	_	_	3	nmod	_	_
+6	exaggerat	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 12
+# text = alter miseriarum mole castigat:
+1	alter	_	PRON	_	_	4	nsubj	_	_
+2	miseriarum	_	NOUN	_	_	3	nmod	_	_
+3	mole	_	NOUN	_	_	4	obl	_	_
+4	castigat	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 13
+# text = alii furiosa contentionum seditione circumdant.
+1	alii	_	PRON	_	_	5	nsubj	_	_
+2	furiosa	_	ADJ	_	_	4	amod	_	_
+3	contentionum	_	NOUN	_	_	4	nmod	_	_
+4	seditione	_	NOUN	_	_	5	obl	_	_
+5	circumdant	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 14
+# text = Inter haec cur requiritis dictationis eloquium, ubi copiam vix possumus habere sermonum?
+1	Inter	_	ADP	_	_	2	case	_	_
+2	haec	_	DET	_	_	4	obl:lmod	_	_
+3	cur	_	ADV	_	_	4	advmod	_	_
+4	requiritis	_	VERB	_	_	0	root	_	_
+5	dictationis	_	NOUN	_	_	6	nmod	_	_
+6	eloquium	_	NOUN	_	_	4	obj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	4	punct	_	_
+8	ubi	_	SCONJ	_	_	11	mark	_	_
+9	copiam	_	NOUN	_	_	12	obj	_	_
+10	vix	_	ADV	_	_	11	advmod	_	_
+11	possumus	_	VERB	_	_	4	advcl	_	_
+12	habere	_	VERB	_	_	11	xcomp	_	_
+13	sermonum	_	NOUN	_	_	9	nmod	_	SpaceAfter=No
+14	?	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 15
+# text = ipsas quoque noctes inexplicabilis cura circumvolat, ne desint alimonia civitatibus, quae supra omnia populi plus requirunt, studentes ventri, non auribus.
+1	ipsas	_	DET	_	_	3	det	_	_
+2	quoque	_	PART	_	_	6	advmod:emph	_	_
+3	noctes	_	NOUN	_	_	6	obj	_	_
+4	inexplicabilis	_	ADJ	_	_	5	amod	_	_
+5	cura	_	NOUN	_	_	6	nsubj	_	_
+6	circumvolat	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	ne	_	SCONJ	_	_	9	mark	_	_
+9	desint	_	VERB	_	_	6	advcl	_	_
+10	alimonia	_	NOUN	_	_	9	obj	_	_
+11	civitatibus	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	18	punct	_	_
+13	quae	_	PRON	_	_	18	obj	_	_
+14	supra	_	ADP	_	_	15	case	_	_
+15	omnia	_	DET	_	_	18	obl	_	_
+16	populi	_	NOUN	_	_	18	nsubj	_	_
+17	plus	_	ADV	_	_	18	advmod	_	_
+18	requirunt	_	VERB	_	_	10	acl:relcl	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	18	punct	_	_
+20	studentes	_	VERB	_	_	18	advcl	_	_
+21	ventri	_	NOUN	_	_	20	obl:arg	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	21	punct	_	_
+23	non	_	PART	_	_	24	advmod:neg	_	_
+24	auribus	_	NOUN	_	_	21	conj	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	20	punct	_	_
+
+# sent_id = 16
+# text = hinc est quod cogimur animo per cunctas ire provincias et iniuncta semper inquirere, quia non sufficit agenda militibus imperare, nisi haec iudicis assiduitas videatur exigere.
+1	hinc	_	ADV	_	_	0	root	_	_
+2	est	_	AUX	_	_	1	cop	_	_
+3	quod	_	SCONJ	_	_	4	mark	_	_
+4	cogimur	_	VERB	_	_	1	csubj	_	_
+5	animo	_	NOUN	_	_	8	obl	_	_
+6	per	_	ADP	_	_	9	case	_	_
+7	cunctas	_	DET	_	_	9	det	_	_
+8	ire	_	VERB	_	_	4	xcomp	_	_
+9	provincias	_	NOUN	_	_	8	obl	_	_
+10	et	_	CCONJ	_	_	13	cc	_	_
+11	iniuncta	_	ADJ	_	_	13	obj	_	_
+12	semper	_	ADV	_	_	13	advmod:tmod	_	_
+13	inquirere	_	VERB	_	_	8	conj	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	4	punct	_	_
+15	quia	_	SCONJ	_	_	17	mark	_	_
+16	non	_	PART	_	_	17	advmod:neg	_	_
+17	sufficit	_	VERB	_	_	1	advcl	_	_
+18	agenda	_	VERB	_	_	20	obj	_	_
+19	militibus	_	NOUN	_	_	20	obl	_	_
+20	imperare	_	VERB	_	_	17	ccomp	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	17	punct	_	_
+22	nisi	_	SCONJ	_	_	26	mark	_	_
+23	haec	_	DET	_	_	27	obj	_	_
+24	iudicis	_	NOUN	_	_	25	nmod	_	_
+25	assiduitas	_	NOUN	_	_	26	nsubj:pass	_	_
+26	videatur	_	VERB	_	_	17	advcl	_	_
+27	exigere	_	VERB	_	_	26	xcomp	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 17
+# text = nolite, quaeso, noxie nos amare.
+1	nolite	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	quaeso	_	VERB	_	_	1	discourse	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	noxie	_	ADV	_	_	7	advmod	_	_
+6	nos	_	PRON	_	_	7	obj	_	_
+7	amare	_	VERB	_	_	1	xcomp	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 18
+# text = declinanda est suasio quae plus habet periculi quam decoris.
+1	declinanda	_	VERB	_	_	0	root	_	_
+2	est	_	AUX	_	_	1	aux:pass	_	_
+3	suasio	_	NOUN	_	_	1	nsubj	_	_
+4	quae	_	PRON	_	_	6	nsubj	_	_
+5	plus	_	NOUN	_	_	6	obj	_	_
+6	habet	_	VERB	_	_	3	acl:relcl	_	_
+7	periculi	_	NOUN	_	_	5	nmod	_	_
+8	quam	_	SCONJ	_	_	9	mark	_	_
+9	decoris	_	NOUN	_	_	6	obl:cmp	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 19
+# text = Sed illi me potius tali disceptatione fatigabant:
+1	Sed	_	CCONJ	_	_	7	cc	_	_
+2	illi	_	DET	_	_	7	nsubj	_	_
+3	me	_	PRON	_	_	7	obj	_	_
+4	potius	_	ADV	_	_	7	advmod	_	_
+5	tali	_	DET	_	_	6	det	_	_
+6	disceptatione	_	NOUN	_	_	7	obl	_	_
+7	fatigabant	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	:	_	PUNCT	_	_	7	punct	_	_
+
+# newdoc
+# newpar
+# sent_id = 20
+# text = praefectum te praetorianae sedis omnes noverunt, cui dignitati occupationes publicae velut pedisequae semper assistunt.
+1	praefectum	_	NOUN	_	_	6	ccomp	_	_
+2	te	_	PRON	_	_	1	nsubj	_	_
+3	praetorianae	_	ADJ	_	_	4	amod	_	_
+4	sedis	_	NOUN	_	_	1	nmod	_	_
+5	omnes	_	DET	_	_	6	nsubj	_	_
+6	noverunt	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	cui	_	DET	_	_	9	det	_	_
+9	dignitati	_	NOUN	_	_	15	obl:arg	_	_
+10	occupationes	_	NOUN	_	_	15	nsubj	_	_
+11	publicae	_	ADJ	_	_	10	amod	_	_
+12	velut	_	SCONJ	_	_	13	mark	_	_
+13	pedisequae	_	ADJ	_	_	15	obl:cmp	_	_
+14	semper	_	ADV	_	_	15	advmod:tmod	_	_
+15	assistunt	_	VERB	_	_	6	parataxis	_	SpaceAfter=No
+16	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 21
+# text = ab hac enim exercituales flagitantur expensae:
+1	ab	_	ADP	_	_	2	case	_	_
+2	hac	_	DET	_	_	5	obl:agent	_	_
+3	enim	_	PART	_	_	5	discourse	_	_
+4	exercituales	_	ADJ	_	_	6	amod	_	_
+5	flagitantur	_	VERB	_	_	0	root	_	_
+6	expensae	_	NOUN	_	_	5	nsubj:pass	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 22
+# text = ab hac victus quaeritur sine temporis consideratione populorum:
+1	ab	_	ADP	_	_	2	case	_	_
+2	hac	_	DET	_	_	4	obl:agent	_	_
+3	victus	_	NOUN	_	_	4	nsubj	_	_
+4	quaeritur	_	VERB	_	_	0	root	_	_
+5	sine	_	ADP	_	_	7	case	_	_
+6	temporis	_	NOUN	_	_	7	nmod	_	_
+7	consideratione	_	NOUN	_	_	4	obl	_	_
+8	populorum	_	NOUN	_	_	3	nmod	_	SpaceAfter=No
+9	:	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 23
+# text = huic etiam vel solum grave iudiciorum pondus adiectum est.
+1	huic	_	DET	_	_	8	obl	_	_
+2	etiam	_	ADV	_	_	8	advmod:emph	_	_
+3	vel	_	ADV	_	_	7	advmod:emph	_	_
+4	solum	_	ADJ	_	_	7	amod	_	_
+5	grave	_	ADJ	_	_	7	amod	_	_
+6	iudiciorum	_	NOUN	_	_	7	nmod	_	_
+7	pondus	_	NOUN	_	_	8	nsubj	_	_
+8	adiectum	_	VERB	_	_	0	root	_	_
+9	est	_	AUX	_	_	8	aux:pass	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	8	punct	_	_
+
+# sent_id = 24
+# text = cui ideo leges visae sunt inmensum onus imponere, dum ad ipsam honoris gratia maluerunt paene omnia pertinere.
+1	cui	_	PRON	_	_	8	obj	_	_
+2	ideo	_	ADV	_	_	4	advmod	_	_
+3	leges	_	NOUN	_	_	4	nsubj:pass	_	_
+4	visae	_	VERB	_	_	0	root	_	_
+5	sunt	_	AUX	_	_	4	aux:pass	_	_
+6	inmensum	_	ADJ	_	_	7	amod	_	_
+7	onus	_	NOUN	_	_	8	obj	_	_
+8	imponere	_	VERB	_	_	4	xcomp	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	4	punct	_	_
+10	dum	_	SCONJ	_	_	15	mark	_	_
+11	ad	_	ADP	_	_	12	case	_	_
+12	ipsam	_	DET	_	_	18	obl:arg	_	_
+13	honoris	_	NOUN	_	_	15	obl	_	_
+14	gratia	_	ADP	_	_	13	case	_	_
+15	maluerunt	_	VERB	_	_	4	advcl	_	_
+16	paene	_	ADV	_	_	17	advmod	_	_
+17	omnia	_	DET	_	_	18	obj	_	_
+18	pertinere	_	VERB	_	_	15	xcomp	_	SpaceAfter=No
+19	.	_	PUNCT	_	_	15	punct	_	_
+
+# sent_id = 25
+# text = quod enim spatium possis publico labori subripere, quando in unum pectus confluit, quicquid utilitas generalitatis exposcit?
+1	quod	_	ADJ	_	_	3	amod	_	_
+2	enim	_	PART	_	_	7	discourse	_	_
+3	spatium	_	NOUN	_	_	7	obj	_	_
+4	possis	_	VERB	_	_	0	root	_	_
+5	publico	_	ADJ	_	_	6	amod	_	_
+6	labori	_	NOUN	_	_	7	obl:arg	_	_
+7	subripere	_	VERB	_	_	4	xcomp	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	4	punct	_	_
+9	quando	_	SCONJ	_	_	13	mark	_	_
+10	in	_	ADP	_	_	12	case	_	_
+11	unum	_	NUM	_	_	12	nummod	_	_
+12	pectus	_	NOUN	_	_	13	obl:lmod	_	_
+13	confluit	_	VERB	_	_	4	advcl	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	13	punct	_	_
+15	quicquid	_	PRON	_	_	18	obj	_	_
+16	utilitas	_	NOUN	_	_	18	nsubj	_	_
+17	generalitatis	_	NOUN	_	_	15	nmod	_	_
+18	exposcit	_	VERB	_	_	13	ccomp	_	SpaceAfter=No
+19	?	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 26
+# text = Addimus etiam, quod frequenter quaesturae vicibus ingravato otii tempus adimit crebra cogitatio, et velut mediocribus fascibus insudanti illa tibi de aliis honoribus principes videntur imponere, quae proprii iudices nequeunt explicare.
+1	Addimus	_	VERB	_	_	0	root	_	_
+2	etiam	_	ADV	_	_	1	advmod:emph	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	quod	_	SCONJ	_	_	11	mark	_	_
+5	frequenter	_	ADV	_	_	11	advmod:tmod	_	_
+6	quaesturae	_	NOUN	_	_	7	nmod	_	_
+7	vicibus	_	NOUN	_	_	8	obl:agent	_	_
+8	ingravato	_	VERB	_	_	11	obl	_	_
+9	otii	_	NOUN	_	_	10	nmod	_	_
+10	tempus	_	NOUN	_	_	11	obj	_	_
+11	adimit	_	VERB	_	_	1	ccomp	_	_
+12	crebra	_	ADJ	_	_	13	amod	_	_
+13	cogitatio	_	NOUN	_	_	11	nsubj	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	11	punct	_	_
+15	et	_	CCONJ	_	_	26	cc	_	_
+16	velut	_	SCONJ	_	_	19	mark	_	_
+17	mediocribus	_	ADJ	_	_	18	amod	_	_
+18	fascibus	_	NOUN	_	_	19	obl	_	_
+19	insudanti	_	VERB	_	_	26	obl:cmp	_	_
+20	illa	_	DET	_	_	27	obj	_	_
+21	tibi	_	PRON	_	_	27	obl	_	_
+22	de	_	ADP	_	_	24	case	_	_
+23	aliis	_	DET	_	_	24	det	_	_
+24	honoribus	_	NOUN	_	_	27	obl	_	_
+25	principes	_	NOUN	_	_	26	nsubj	_	_
+26	videntur	_	VERB	_	_	1	conj	_	_
+27	imponere	_	VERB	_	_	26	xcomp	_	SpaceAfter=No
+28	,	_	PUNCT	_	_	26	punct	_	_
+29	quae	_	PRON	_	_	32	obj	_	_
+30	proprii	_	ADJ	_	_	31	amod	_	_
+31	iudices	_	NOUN	_	_	32	nsubj	_	_
+32	nequeunt	_	VERB	_	_	20	acl:relcl	_	_
+33	explicare	_	VERB	_	_	32	xcomp	_	SpaceAfter=No
+34	.	_	PUNCT	_	_	32	punct	_	_
+
+# sent_id = 27
+# text = haec autem facis nulla vendendo, sed exemplo proprii genitoris ab sperantibus accipis solos labores:
+1	haec	_	DET	_	_	3	obj	_	_
+2	autem	_	PART	_	_	3	discourse	_	_
+3	facis	_	VERB	_	_	0	root	_	_
+4	nulla	_	DET	_	_	5	obj	_	_
+5	vendendo	_	VERB	_	_	3	advcl:pred	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	3	punct	_	_
+7	sed	_	CCONJ	_	_	13	cc	_	_
+8	exemplo	_	NOUN	_	_	13	obl	_	_
+9	proprii	_	ADJ	_	_	10	amod	_	_
+10	genitoris	_	NOUN	_	_	8	nmod	_	_
+11	ab	_	ADP	_	_	12	case	_	_
+12	sperantibus	_	VERB	_	_	15	obl	_	_
+13	accipis	_	VERB	_	_	3	conj	_	_
+14	solos	_	ADJ	_	_	15	amod	_	_
+15	labores	_	NOUN	_	_	13	obj	_	SpaceAfter=No
+16	:	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 28
+# text = sic petentibus praestando gratis sub continentiae munere cuncta mercaris.
+1	sic	_	ADV	_	_	9	advmod	_	_
+2	petentibus	_	VERB	_	_	3	obl	_	_
+3	praestando	_	VERB	_	_	9	advcl	_	_
+4	gratis	_	ADV	_	_	3	advcl	_	_
+5	sub	_	ADP	_	_	7	case	_	_
+6	continentiae	_	NOUN	_	_	7	nmod	_	_
+7	munere	_	NOUN	_	_	9	obl	_	_
+8	cuncta	_	DET	_	_	9	obj	_	_
+9	mercaris	_	VERB	_	_	0	root	_	SpaceAfter=No
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 29
+# text = Regum quin etiam gloriosa colloquia pro magna diei parte in bonum publicum te occupare noverunt, ut fastidium sit otiosis expectare, quae tu continuo labore cognosceris sustinere.
+1	Regum	_	NOUN	_	_	5	amod	_	_
+2	quin	_	PART	_	_	15	advmod	_	_
+3	etiam	_	ADV	_	_	15	advmod:emph	_	_
+4	gloriosa	_	ADJ	_	_	5	amod	_	_
+5	colloquia	_	NOUN	_	_	15	nsubj	_	_
+6	pro	_	ADP	_	_	9	case	_	_
+7	magna	_	ADJ	_	_	9	amod	_	_
+8	diei	_	NOUN	_	_	9	nmod	_	_
+9	parte	_	NOUN	_	_	14	obl	_	_
+10	in	_	ADP	_	_	11	case	_	_
+11	bonum	_	ADJ	_	_	14	obl	_	_
+12	publicum	_	ADJ	_	_	11	amod	_	_
+13	te	_	PRON	_	_	14	obj	_	_
+14	occupare	_	VERB	_	_	15	xcomp	_	_
+15	noverunt	_	VERB	_	_	0	root	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	ut	_	SCONJ	_	_	18	mark	_	_
+18	fastidium	_	NOUN	_	_	15	advcl	_	_
+19	sit	_	AUX	_	_	18	cop	_	_
+20	otiosis	_	ADJ	_	_	18	obl	_	_
+21	expectare	_	VERB	_	_	18	nsubj	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	18	punct	_	_
+23	quae	_	PRON	_	_	27	obl	_	_
+24	tu	_	PRON	_	_	27	nsubj	_	_
+25	continuo	_	ADJ	_	_	26	amod	_	_
+26	labore	_	NOUN	_	_	27	obl	_	_
+27	cognosceris	_	VERB	_	_	18	ccomp:relcl	_	_
+28	sustinere	_	VERB	_	_	27	xcomp	_	SpaceAfter=No
+29	.	_	PUNCT	_	_	27	punct	_	_
+
+# sent_id = 30
+# text = verum hoc magis tibi ad suffragium laudis potest proficere, si inter tanta et talia valueris legenda proferre:
+1	verum	_	ADV	_	_	8	advmod	_	_
+2	hoc	_	DET	_	_	8	det	_	_
+3	magis	_	ADV	_	_	9	advmod	_	_
+4	tibi	_	PRON	_	_	9	obl	_	_
+5	ad	_	ADP	_	_	6	case	_	_
+6	suffragium	_	NOUN	_	_	9	obl	_	_
+7	laudis	_	NOUN	_	_	6	nmod	_	_
+8	potest	_	VERB	_	_	0	root	_	_
+9	proficere	_	VERB	_	_	8	xcomp	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	8	punct	_	_
+11	si	_	SCONJ	_	_	16	mark	_	_
+12	inter	_	ADP	_	_	13	case	_	_
+13	tanta	_	DET	_	_	16	obl	_	_
+14	et	_	CCONJ	_	_	15	cc	_	_
+15	talia	_	ADJ	_	_	13	conj	_	_
+16	valueris	_	VERB	_	_	8	advcl	_	_
+17	legenda	_	VERB	_	_	18	obj	_	_
+18	proferre	_	VERB	_	_	16	xcomp	_	SpaceAfter=No
+19	:	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 31
+# text = deinde quod rudes viros et ad rem publicam conscia facundia praeparatos labor tuus sine aliqua offensione poterit edocere, et usum, quem tu inter altercantium pericula iactatus exerces, illos, qui sunt in tranquillitate positi, contingit felicius adipisci.
+1	deinde	_	ADV	_	_	17	advmod	_	_
+2	quod	_	SCONJ	_	_	17	mark	_	_
+3	rudes	_	ADJ	_	_	4	amod	_	_
+4	viros	_	NOUN	_	_	18	obl	_	_
+5	et	_	CCONJ	_	_	11	cc	_	_
+6	ad	_	ADP	_	_	7	case	_	_
+7	rem	_	NOUN	_	_	11	obl	_	_
+8	publicam	_	ADJ	_	_	7	amod	_	_
+9	conscia	_	ADJ	_	_	10	amod	_	_
+10	facundia	_	ADJ	_	_	11	obl	_	_
+11	praeparatos	_	VERB	_	_	3	conj	_	_
+12	labor	_	NOUN	_	_	17	nsubj	_	_
+13	tuus	_	DET	_	_	12	det	_	_
+14	sine	_	ADP	_	_	16	case	_	_
+15	aliqua	_	DET	_	_	16	det	_	_
+16	offensione	_	NOUN	_	_	17	obl	_	_
+17	poterit	_	VERB	_	_	0	root	_	-=null
+18	edocere	_	VERB	_	_	17	xcomp	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	17	punct	_	_
+20	et	_	CCONJ	_	_	39	cc	_	_
+21	usum	_	NOUN	_	_	41	obj	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	29	punct	_	_
+23	quem	_	PRON	_	_	29	obj	_	_
+24	tu	_	PRON	_	_	29	nsubj	_	_
+25	inter	_	ADP	_	_	27	case	_	_
+26	altercantium	_	VERB	_	_	27	nmod	_	_
+27	pericula	_	NOUN	_	_	28	obl	_	_
+28	iactatus	_	VERB	_	_	29	advcl:pred	_	_
+29	exerces	_	VERB	_	_	21	acl:relcl	_	SpaceAfter=No
+30	,	_	PUNCT	_	_	29	punct	_	_
+31	illos	_	DET	_	_	41	nsubj	_	SpaceAfter=No
+32	,	_	PUNCT	_	_	37	punct	_	_
+33	qui	_	PRON	_	_	37	nsubj	_	_
+34	sunt	_	AUX	_	_	37	aux	_	_
+35	in	_	ADP	_	_	36	case	_	_
+36	tranquillitate	_	NOUN	_	_	37	obl	_	_
+37	positi	_	VERB	_	_	31	acl:relcl	_	SpaceAfter=No
+38	,	_	PUNCT	_	_	37	punct	_	_
+39	contingit	_	VERB	_	_	17	conj	_	_
+40	felicius	_	ADV	_	_	41	advmod	_	_
+41	adipisci	_	VERB	_	_	39	csubj	_	SpaceAfter=No
+42	.	_	PUNCT	_	_	39	punct	_	SpaceAfter=No
+
+# sent_id = 32
+# text = Proinde, quod salva fide, qua frueris, dissimulare non poteris, tanta regum beneficia, si pateris ignorari, frustra maluisti benigna festinatione concedi.
+1	Proinde	_	ADV	_	_	23	advmod	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	12	punct	_	_
+3	quod	_	SCONJ	_	_	12	mark	_	_
+4	salva	_	ADJ	_	_	12	advcl:abs	_	_
+5	fide	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	8	punct	_	_
+7	qua	_	PRON	_	_	8	obl:arg	_	_
+8	frueris	_	VERB	_	_	5	acl:relcl	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	dissimulare	_	VERB	_	_	12	xcomp	_	_
+11	non	_	PART	_	_	12	advmod:neg	_	_
+12	poteris	_	VERB	_	_	23	advcl	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	12	punct	_	_
+14	tanta	_	DET	_	_	16	det	_	_
+15	regum	_	NOUN	_	_	16	nmod	_	_
+16	beneficia	_	NOUN	_	_	12	obj	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	19	punct	_	_
+18	si	_	SCONJ	_	_	19	mark	_	_
+19	pateris	_	VERB	_	_	23	advcl	_	_
+20	ignorari	_	VERB	_	_	19	xcomp	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	19	punct	_	_
+22	frustra	_	ADV	_	_	23	advmod	_	_
+23	maluisti	_	NOUN	_	_	0	root	_	_
+24	benigna	_	ADJ	_	_	25	amod	_	_
+25	festinatione	_	NOUN	_	_	26	obl	_	_
+26	concedi	_	VERB	_	_	23	xcomp	_	SpaceAfter=No
+27	.	_	PUNCT	_	_	23	punct	_	_
+
+# sent_id = 33
+# text = noli, quaesumus, in obscurum silentii revocare, qui te dicente meruerunt illustres dignitates accipere.
+1	noli	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	quaesumus	_	VERB	_	_	1	discourse	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	in	_	ADP	_	_	6	case	_	_
+6	obscurum	_	ADJ	_	_	8	obl	_	_
+7	silentii	_	NOUN	_	_	6	nmod	_	_
+8	revocare	_	VERB	_	_	1	xcomp	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	8	punct	_	_
+10	qui	_	PRON	_	_	13	nsubj	_	_
+11	te	_	PRON	_	_	12	nsubj	_	_
+12	dicente	_	VERB	_	_	13	advcl:abs	_	_
+13	meruerunt	_	VERB	_	_	8	ccomp:relcl	_	_
+14	illustres	_	ADJ	_	_	15	amod	_	_
+15	dignitates	_	NOUN	_	_	16	obj	_	_
+16	accipere	_	VERB	_	_	13	xcomp	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 34
+# text = tu enim illos assumpsisti vera laude describere et quodam modo historico colore depingere.
+1	tu	_	PRON	_	_	4	nsubj	_	_
+2	enim	_	PART	_	_	4	discourse	_	_
+3	illos	_	DET	_	_	7	obj	_	_
+4	assumpsisti	_	VERB	_	_	0	root	_	_
+5	vera	_	ADJ	_	_	6	amod	_	_
+6	laude	_	NOUN	_	_	7	obl	_	_
+7	describere	_	VERB	_	_	4	xcomp	_	_
+8	et	_	CCONJ	_	_	13	cc	_	_
+9	quodam	_	DET	_	_	10	det	_	_
+10	modo	_	NOUN	_	_	13	obl	_	_
+11	historico	_	ADJ	_	_	12	amod	_	_
+12	colore	_	NOUN	_	_	13	obl	_	_
+13	depingere	_	VERB	_	_	7	conj	_	SpaceAfter=No
+14	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 35
+# text = quos si celebrandos posteris tradas, abstulisti, consuetudine maiorum, morientibus decenter interitum.
+1	quos	_	PRON	_	_	5	obj	_	_
+2	si	_	SCONJ	_	_	5	mark	_	_
+3	celebrandos	_	VERB	_	_	5	xcomp	_	_
+4	posteris	_	ADJ	_	_	5	obl	_	_
+5	tradas	_	VERB	_	_	7	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	abstulisti	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	9	punct	_	_
+9	consuetudine	_	NOUN	_	_	7	obl	_	_
+10	maiorum	_	ADJ	_	_	9	nmod	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	9	punct	_	_
+12	morientibus	_	VERB	_	_	7	obl	_	_
+13	decenter	_	ADV	_	_	7	advmod	_	_
+14	interitum	_	NOUN	_	_	7	obj	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 36
+# text = Deinde mores pravos regis auctoritate recorrigis, excedentis audaciam frangis, timorem legibus reddis.
+1	Deinde	_	ADV	_	_	6	advmod	_	_
+2	mores	_	NOUN	_	_	6	obj	_	_
+3	pravos	_	ADJ	_	_	2	amod	_	_
+4	regis	_	NOUN	_	_	5	nmod	_	_
+5	auctoritate	_	NOUN	_	_	6	obl	_	_
+6	recorrigis	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	excedentis	_	VERB	_	_	9	nmod	_	_
+9	audaciam	_	NOUN	_	_	10	obj	_	_
+10	frangis	_	VERB	_	_	6	conj	_	SpaceAfter=No
+11	,	_	PUNCT	_	_	10	punct	_	_
+12	timorem	_	NOUN	_	_	14	obj	_	_
+13	legibus	_	NOUN	_	_	14	obl:arg	_	_
+14	reddis	_	VERB	_	_	10	conj	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 37
+# text = et adhuc dubitas edere quod tantis utilitatibus probas posse congruere?
+1	et	_	CCONJ	_	_	3	cc	_	_
+2	adhuc	_	ADV	_	_	3	advmod:tmod	_	_
+3	dubitas	_	VERB	_	_	0	root	_	_
+4	edere	_	VERB	_	_	3	xcomp	_	_
+5	quod	_	PRON	_	_	8	obj	_	_
+6	tantis	_	DET	_	_	7	det	_	_
+7	utilitatibus	_	NOUN	_	_	10	obl:arg	_	_
+8	probas	_	VERB	_	_	3	ccomp:relcl	_	_
+9	posse	_	VERB	_	_	8	xcomp	_	_
+10	congruere	_	VERB	_	_	9	xcomp	_	SpaceAfter=No
+11	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 38
+# text = celas etiam ut ita dixerim, speculum mentis tuae, ubi te omnis aetas ventura possit inspicere.
+1	celas	_	VERB	_	_	0	root	_	_
+2	etiam	_	ADV	_	_	1	advmod	_	_
+3	ut	_	SCONJ	_	_	5	mark	_	_
+4	ita	_	ADV	_	_	5	advmod	_	_
+5	dixerim	_	VERB	_	_	1	parataxis	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	speculum	_	NOUN	_	_	1	obj	_	_
+8	mentis	_	NOUN	_	_	7	nmod	_	_
+9	tuae	_	DET	_	_	8	det	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	7	punct	_	_
+11	ubi	_	SCONJ	_	_	16	mark	_	_
+12	te	_	PRON	_	_	17	obj	_	_
+13	omnis	_	DET	_	_	14	det	_	_
+14	aetas	_	NOUN	_	_	16	nsubj	_	_
+15	ventura	_	VERB	_	_	14	amod	_	_
+16	possit	_	VERB	_	_	7	acl:relcl	_	_
+17	inspicere	_	VERB	_	_	16	xcomp	_	SpaceAfter=No
+18	.	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 39
+# text = contingit enim dissimilem filium plerumque generari:
+1	contingit	_	VERB	_	_	0	root	_	_
+2	enim	_	PART	_	_	1	discourse	_	_
+3	dissimilem	_	ADJ	_	_	4	amod	_	_
+4	filium	_	NOUN	_	_	6	nsubj:pass	_	_
+5	plerumque	_	PRON	_	_	4	amod	_	_
+6	generari	_	VERB	_	_	1	csubj	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 40
+# text = oratio dispar moribus vix potest inveniri.
+1	oratio	_	NOUN	_	_	5	nsubj	_	_
+2	dispar	_	ADJ	_	_	1	amod	_	_
+3	moribus	_	NOUN	_	_	2	obl:arg	_	_
+4	vix	_	ADV	_	_	5	advmod	_	_
+5	potest	_	VERB	_	_	0	root	_	_
+6	inveniri	_	VERB	_	_	5	xcomp	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 41
+# text = est ergo ista valde certior arbitrii proles:
+1	est	_	AUX	_	_	5	cop	_	_
+2	ergo	_	ADV	_	_	6	discourse	_	_
+3	ista	_	DET	_	_	7	det	_	_
+4	valde	_	ADV	_	_	5	advmod	_	_
+5	certior	_	ADJ	_	_	0	root	_	_
+6	arbitrii	_	NOUN	_	_	5	obl	_	_
+7	proles	_	NOUN	_	_	5	nsubj	_	SpaceAfter=No
+8	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 42
+# text = nam quod de arcano pectoris gignitur, auctoris sui posteritas veracius aestimatur.
+1	nam	_	ADV	_	_	12	advmod	_	_
+2	quod	_	PRON	_	_	6	nsubj:pass	_	_
+3	de	_	ADP	_	_	5	case	_	_
+4	arcano	_	ADJ	_	_	5	amod	_	_
+5	pectoris	_	NOUN	_	_	6	obl	_	_
+6	gignitur	_	VERB	_	_	12	ccomp:relcl	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	6	punct	_	_
+8	auctoris	_	NOUN	_	_	10	nsubj	_	_
+9	sui	_	DET	_	_	8	det	_	_
+10	posteritas	_	NOUN	_	_	12	nsubj	_	_
+11	veracius	_	ADJ	_	_	12	xcomp	_	_
+12	aestimatur	_	VERB	_	_	0	root	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 43
+# text = Dixisti etiam ad commendationem universitatis frequenter reginis ac regibus laudes:
+1	Dixisti	_	VERB	_	_	0	root	_	_
+2	etiam	_	ADV	_	_	1	advmod:emph	_	_
+3	ad	_	ADP	_	_	4	case	_	_
+4	commendationem	_	NOUN	_	_	1	obl	_	_
+5	universitatis	_	NOUN	_	_	4	nmod	_	_
+6	frequenter	_	ADV	_	_	1	advmod	_	_
+7	reginis	_	NOUN	_	_	1	obl	_	_
+8	ac	_	CCONJ	_	_	9	cc	_	_
+9	regibus	_	NOUN	_	_	7	conj	_	_
+10	laudes	_	NOUN	_	_	1	obj	_	SpaceAfter=No
+11	:	_	PUNCT	_	_	1	punct	_	_
+
+# sent_id = 44
+# text = duodecim libris Gothorum historiam defloratis prosperitatibus condidisti.
+1	duodecim	_	NUM	_	_	2	nummod	_	_
+2	libris	_	NOUN	_	_	7	obl	_	_
+3	Gothorum	_	NOUN	_	_	4	nmod	_	_
+4	historiam	_	NOUN	_	_	7	obj	_	_
+5	defloratis	_	VERB	_	_	7	advcl:abs	_	_
+6	prosperitatibus	_	NOUN	_	_	5	nsubj	_	_
+7	condidisti	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 45
+# text = cum
+1	cum	_	SCONJ	_	_	0	root	_	_
+

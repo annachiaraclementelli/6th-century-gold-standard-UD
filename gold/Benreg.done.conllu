@@ -1,0 +1,819 @@
+# sent_id = 1
+# text = Obsculta, o fili, præcepta magistri, et inclina aurem cordis tui et admonitionem pii patris libenter excipe et efficaciter conple, ut ad eum per oboedientiæ laborem redeas, a quo per inoboedientiæ desidiam recesseras.
+1	Obsculta	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	4	punct	_	_
+3	o	_	PART	_	_	4	advmod:emph	_	_
+4	fili	_	NOUN	_	_	1	vocative	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	præcepta	_	NOUN	_	_	1	obj	_	_
+7	magistri	_	NOUN	_	_	6	nmod	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	1	punct	_	_
+9	et	_	CCONJ	_	_	10	cc	_	_
+10	inclina	_	VERB	_	_	1	conj	_	_
+11	aurem	_	NOUN	_	_	10	obj	_	_
+12	cordis	_	NOUN	_	_	11	nmod	_	_
+13	tui	_	DET	_	_	12	det	_	_
+14	et	_	CCONJ	_	_	19	cc	_	_
+15	admonitionem	_	NOUN	_	_	19	obj	_	_
+16	pii	_	ADJ	_	_	17	amod	_	_
+17	patris	_	NOUN	_	_	15	nmod	_	_
+18	libenter	_	ADV	_	_	19	advmod	_	_
+19	excipe	_	VERB	_	_	1	conj	_	_
+20	et	_	CCONJ	_	_	22	cc	_	_
+21	efficaciter	_	ADV	_	_	22	advmod	_	_
+22	conple	_	VERB	_	_	1	conj	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	22	punct	_	_
+24	ut	_	SCONJ	_	_	30	mark	_	_
+25	ad	_	ADP	_	_	26	case	_	_
+26	eum	_	PRON	_	_	30	obl:lmod	_	_
+27	per	_	ADP	_	_	29	case	_	_
+28	oboedientiæ	_	NOUN	_	_	29	nmod	_	_
+29	laborem	_	NOUN	_	_	30	obl	_	_
+30	redeas	_	VERB	_	_	1	advcl	_	SpaceAfter=No
+31	,	_	PUNCT	_	_	30	punct	_	_
+32	a	_	ADP	_	_	33	case	_	_
+33	quo	_	PRON	_	_	37	obl	_	_
+34	per	_	ADP	_	_	36	case	_	_
+35	inoboedientiæ	_	NOUN	_	_	36	nmod	_	_
+36	desidiam	_	NOUN	_	_	37	obl	_	_
+37	recesseras	_	VERB	_	_	26	acl:relcl	_	SpaceAfter=No
+38	.	_	PUNCT	_	_	37	punct	_	_
+
+# sent_id = 2
+# text = Ad te ergo nunc mihi sermo dirigitur, quisquis abrenuntians propriis voluntatibus, Domino Christo vero Regi militaturus oboedientiæ fortissima atque præclara arma sumis.
+1	Ad	_	ADP	_	_	2	case	_	_
+2	te	_	PRON	_	_	7	obl:lmod	_	_
+3	ergo	_	ADV	_	_	7	discourse	_	_
+4	nunc	_	ADV	_	_	7	advmod:tmod	_	_
+5	mihi	_	PRON	_	_	7	obl:agent	_	_
+6	sermo	_	NOUN	_	_	7	nsubj:pass	_	_
+7	dirigitur	_	VERB	_	_	0	root	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	quisquis	_	PRON	_	_	24	nsubj	_	_
+10	abrenuntians	_	VERB	_	_	24	advcl	_	_
+11	propriis	_	ADJ	_	_	12	amod	_	_
+12	voluntatibus	_	NOUN	_	_	10	iobj	_	SpaceAfter=No
+13	,	_	PUNCT	_	_	10	punct	_	_
+14	Domino	_	NOUN	_	_	18	obl	_	_
+15	Christo	_	NOUN	_	_	14	flat	_	_
+16	vero	_	ADJ	_	_	17	amod	_	_
+17	Regi	_	NOUN	_	_	14	appos	_	_
+18	militaturus	_	VERB	_	_	24	advcl	_	_
+19	oboedientiæ	_	NOUN	_	_	23	nmod	_	_
+20	fortissima	_	ADJ	_	_	23	amod	_	_
+21	atque	_	CCONJ	_	_	22	cc	_	_
+22	præclara	_	ADJ	_	_	20	conj	_	_
+23	arma	_	NOUN	_	_	24	obj	_	_
+24	sumis	_	VERB	_	_	2	acl:relcl	_	SpaceAfter=No
+25	.	_	PUNCT	_	_	24	punct	_	_
+
+# sent_id = 3
+# text = In primis, ut quidquid agendum inchoas bonum, ab eo perfici instantissima oratione deposcas, ut qui nos iam in filiorum dignatus est numero conputare, non debet aliquando de malis actibus nostris contristari.
+1	In	_	ADP	_	_	2	case	_	_
+2	primis	_	ADJ	_	_	15	obl:tmod	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	ut	_	SCONJ	_	_	15	mark	_	_
+5	quidquid	_	PRON	_	_	8	det	_	_
+6	agendum	_	ADJ	_	_	7	xcomp	_	_
+7	inchoas	_	VERB	_	_	12	ccomp:relcl	_	_
+8	bonum	_	ADJ	_	_	7	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	7	punct	_	_
+10	ab	_	ADP	_	_	11	case	_	_
+11	eo	_	PRON	_	_	12	obl:agent	_	_
+12	perfici	_	VERB	_	_	15	ccomp	_	_
+13	instantissima	_	ADJ	_	_	14	amod	_	_
+14	oratione	_	NOUN	_	_	15	obl	_	_
+15	deposcas	_	VERB	_	_	0	root	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	ut	_	SCONJ	_	_	29	mark	_	_
+18	qui	_	PRON	_	_	23	nsubj	_	_
+19	nos	_	PRON	_	_	26	obj	_	_
+20	iam	_	ADV	_	_	23	advmod:tmod	_	_
+21	in	_	ADP	_	_	25	case	_	_
+22	filiorum	_	NOUN	_	_	25	nmod	_	_
+23	dignatus	_	VERB	_	_	29	orphan	_	_
+24	est	_	AUX	_	_	23	aux	_	_
+25	numero	_	NOUN	_	_	26	obl:lmod	_	_
+26	conputare	_	VERB	_	_	23	xcomp	_	SpaceAfter=No
+27	,	_	PUNCT	_	_	26	punct	_	_
+28	non	_	PART	_	_	29	advmod:neg	_	_
+29	debet	_	VERB	_	_	15	conj	_	_
+30	aliquando	_	ADV	_	_	29	advmod:tmod	_	_
+31	de	_	ADP	_	_	32	case	_	_
+32	malis	_	ADJ	_	_	35	obl	_	_
+33	actibus	_	VERB	_	_	32	acl	_	_
+34	nostris	_	ADJ	_	_	32	amod	_	_
+35	contristari	_	VERB	_	_	29	xcomp	_	SpaceAfter=No
+36	.	_	PUNCT	_	_	35	punct	_	_
+
+# sent_id = 4
+# text = Ita enim ei omni tempore de bonis suis in nobis parendum est ut non solum iratus pater suos non aliquando filios exheredet, sed nec ut metuendus dominus inritatus a malis nostris, ut nequissimos servos perpetuam tradat ad poenam qui eum sequi noluerint ad gloriam.
+1	Ita	_	ADV	_	_	11	advmod	_	_
+2	enim	_	PART	_	_	11	discourse	_	_
+3	ei	_	PRON	_	_	11	obl	_	_
+4	omni	_	DET	_	_	5	det	_	_
+5	tempore	_	NOUN	_	_	11	obl:tmod	_	_
+6	de	_	ADP	_	_	7	case	_	_
+7	bonis	_	ADJ	_	_	11	obl	_	_
+8	suis	_	ADJ	_	_	7	amod	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	nobis	_	PRON	_	_	11	obl	_	_
+11	parendum	_	VERB	_	_	0	root	_	_
+12	est	_	AUX	_	_	11	aux	_	_
+13	ut	_	SCONJ	_	_	22	mark	_	_
+14	non	_	PART	_	_	15	advmod:neg	_	_
+15	solum	_	ADV	_	_	22	advmod	_	_
+16	iratus	_	VERB	_	_	17	advcl	_	_
+17	pater	_	NOUN	_	_	22	xcomp	_	_
+18	suos	_	DET	_	_	21	det	_	_
+19	non	_	PART	_	_	22	advmod:neg	_	_
+20	aliquando	_	ADV	_	_	22	advmod:tmod	_	_
+21	filios	_	NOUN	_	_	22	obj	_	_
+22	exheredet	_	VERB	_	_	11	advcl	_	SpaceAfter=No
+23	,	_	PUNCT	_	_	22	punct	_	_
+24	sed	_	CCONJ	_	_	38	cc	_	_
+25	nec	_	CCONJ	_	_	38	advmod:neg	_	_
+26	ut	_	SCONJ	_	_	38	mark	_	_
+27	metuendus	_	VERB	_	_	28	advcl	_	_
+28	dominus	_	NOUN	_	_	38	xcomp	_	_
+29	inritatus	_	ADJ	_	_	38	advcl	_	_
+30	a	_	ADP	_	_	31	case	_	_
+31	malis	_	ADJ	_	_	29	obl:agent	_	_
+32	nostris	_	ADJ	_	_	31	amod	_	SpaceAfter=No
+33	,	_	PUNCT	_	_	29	punct	_	_
+34	ut	_	SCONJ	_	_	36	mark	_	_
+35	nequissimos	_	ADJ	_	_	36	amod	_	_
+36	servos	_	NOUN	_	_	38	obj	_	_
+37	perpetuam	_	ADJ	_	_	40	amod	_	_
+38	tradat	_	VERB	_	_	22	conj	_	_
+39	ad	_	ADP	_	_	40	case	_	_
+40	poenam	_	NOUN	_	_	38	obl	_	_
+41	qui	_	PRON	_	_	44	nsubj	_	_
+42	eum	_	PRON	_	_	43	obj	_	_
+43	sequi	_	VERB	_	_	44	xcomp	_	_
+44	noluerint	_	VERB	_	_	36	acl:relcl	_	–=null
+45	ad	_	ADP	_	_	46	case	_	_
+46	gloriam	_	NOUN	_	_	43	obl	_	SpaceAfter=No
+47	.	_	PUNCT	_	_	44	punct	_	_
+
+# sent_id = 5
+# text = Exurgamus ergo tandem aliquando excitante nos Scriptura ac dicente:
+1	Exurgamus	_	VERB	_	_	0	root	_	_
+2	ergo	_	ADV	_	_	1	discourse	_	_
+3	tandem	_	ADV	_	_	1	advmod:tmod	_	_
+4	aliquando	–	ADV	_	_	1	advmod:tmod	_	_
+5	excitante	–	VERB	_	_	1	advcl:pred	_	_
+6	nos	–	PRON	_	_	5	obj	_	_
+7	Scriptura	–	NOUN	_	_	5	nsubj	_	_
+8	ac	–	CCONJ	_	_	9	cc	_	_
+9	dicente	–	VERB	_	_	5	conj	_	SpaceAfter=No
+10	:	–	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 6
+# text = Hora est iam nos de somno surgere, et apertis oculis nostris ad deificum lumen adtonitis auribus audiamus divina cotidie clamans quid nos admonet vox dicens:
+1	Hora	_	NOUN	_	_	0	root	_	_
+2	est	_	AUX	_	_	1	cop	_	_
+3	iam	_	ADV	_	_	1	advmod:tmod	_	_
+4	nos	_	PRON	_	_	7	nsubj	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	somno	_	NOUN	_	_	7	obl	_	_
+7	surgere	_	VERB	_	_	1	csubj	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	1	punct	_	_
+9	et	_	CCONJ	_	_	18	cc	_	_
+10	apertis	_	VERB	_	_	18	advcl:pred	_	_
+11	oculis	_	NOUN	_	_	10	nsubj	_	_
+12	nostris	_	DET	_	_	11	det	_	_
+13	ad	_	ADP	_	_	15	case	_	_
+14	deificum	_	ADJ	_	_	15	amod	_	_
+15	lumen	_	NOUN	_	_	10	obl	_	_
+16	adtonitis	_	VERB	_	_	18	advcl:pred	_	_
+17	auribus	_	NOUN	_	_	16	nsubj	_	_
+18	audiamus	_	VERB	_	_	1	conj	_	_
+19	divina	_	ADJ	_	_	25	amod	_	_
+20	cotidie	_	ADV	_	_	24	advmod:tmod	_	_
+21	clamans	_	VERB	_	_	24	advcl	_	_
+22	quid	_	PRON	_	_	24	obj	_	_
+23	nos	_	PRON	_	_	21	obj	_	_
+24	admonet	_	VERB	_	_	18	ccomp	_	_
+25	vox	_	NOUN	_	_	24	nsubj	_	_
+26	dicens	_	VERB	_	_	21	conj	_	SpaceAfter=No
+27	:	_	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 7
+# text = Hodie si vocem eius audieritis, nolite obdurare corda vestra.
+1	Hodie	_	ADV	_	_	7	advmod	_	_
+2	si	_	SCONJ	_	_	5	mark	_	_
+3	vocem	_	NOUN	_	_	5	obj	_	_
+4	eius	_	PRON	_	_	3	nmod	_	_
+5	audieritis	_	VERB	_	_	7	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	nolite	_	VERB	_	_	0	root	_	_
+8	obdurare	_	VERB	_	_	7	xcomp	_	_
+9	corda	_	NOUN	_	_	8	obj	_	_
+10	vestra	_	DET	_	_	9	det	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	7	punct	_	_
+
+# sent_id = 8
+# text = Et iterum:
+1	Et	_	CCONJ	_	_	2	cc	_	_
+2	iterum	_	ADV	_	_	0	root	_	SpaceAfter=No
+3	:	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 9
+# text = Qui habet aures audiendi audiat, quid Spiritus dicat ecclesiis.
+1	Qui	_	PRON	_	_	2	nsubj	_	_
+2	habet	_	VERB	_	_	5	orphan	_	_
+3	aures	_	NOUN	_	_	2	obj	_	_
+4	audiendi	_	VERB	_	_	2	advcl	_	_
+5	audiat	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	quid	_	PRON	_	_	9	obj	_	_
+8	Spiritus	_	NOUN	_	_	9	nsubj	_	_
+9	dicat	_	VERB	_	_	5	ccomp	_	_
+10	ecclesiis	_	NOUN	_	_	9	obl	_	SpaceAfter=No
+11	.	_	PUNCT	_	_	9	punct	_	_
+
+# sent_id = 10
+# text = Et quid dicit?
+1	Et	_	CCONJ	_	_	3	cc	_	_
+2	quid	_	PRON	_	_	3	obj	_	_
+3	dicit	_	VERB	_	_	0	root	_	SpaceAfter=No
+4	?	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 11
+# text = Venite, filii, audite me;
+1	Venite	_	VERB	_	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	3	punct	_	_
+3	filii	_	NOUN	_	_	1	vocative	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	3	punct	_	_
+5	audite	_	VERB	_	_	1	conj	_	_
+6	me	_	PRON	_	_	5	obj	_	SpaceAfter=No
+7	;	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 12
+# text = timorem Dei docebo vos.
+1	timorem	_	NOUN	_	_	3	obj	_	_
+2	Dei	_	NOUN	_	_	1	nmod	_	_
+3	docebo	_	VERB	_	_	0	root	_	_
+4	vos	_	PRON	_	_	3	obl	_	SpaceAfter=No
+5	.	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 13
+# text = Currite dum lumen vitæ habetis, ne tenebræ mortis vos conprehendant.
+1	Currite	_	VERB	_	_	0	root	_	_
+2	dum	_	SCONJ	_	_	5	mark	_	_
+3	lumen	_	NOUN	_	_	5	obj	_	_
+4	vitæ	_	NOUN	_	_	3	nmod	_	_
+5	habetis	_	VERB	_	_	1	advcl	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	ne	_	SCONJ	_	_	11	mark	_	_
+8	tenebræ	_	NOUN	_	_	11	nsubj	_	_
+9	mortis	_	NOUN	_	_	8	amod	_	_
+10	vos	_	PRON	_	_	11	obj	_	_
+11	conprehendant	_	VERB	_	_	1	advcl	_	SpaceAfter=No
+12	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 14
+# text = Et quærens Dominus in multitudine populi cui hæc clamat operarium suum iterum dicit:
+1	Et	_	CCONJ	_	_	13	cc	_	_
+2	quærens	_	VERB	_	_	13	advcl:pred	_	_
+3	Dominus	_	NOUN	_	_	13	nsubj	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	multitudine	_	NOUN	_	_	2	obl:lmod	_	_
+6	populi	_	NOUN	_	_	5	nmod	_	_
+7	cui	_	PRON	_	_	9	obl	_	_
+8	hæc	_	PRON	_	_	9	obj	_	_
+9	clamat	_	VERB	_	_	10	acl:relcl	_	_
+10	operarium	_	NOUN	_	_	2	obj	_	_
+11	suum	_	DET	_	_	10	det	_	_
+12	iterum	_	ADV	_	_	13	advmod:tmod	_	_
+13	dicit	_	VERB	_	_	0	root	_	SpaceAfter=No
+14	:	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 15
+# text = Quis est homo qui vult vitam et cupit videre dies bonos?
+1	Quis	_	PRON	_	_	3	nsubj	_	_
+2	est	_	AUX	_	_	3	cop	_	_
+3	homo	_	NOUN	_	_	0	root	_	_
+4	qui	_	PRON	_	_	5	nsubj	_	_
+5	vult	_	VERB	_	_	3	acl:relcl	_	_
+6	vitam	_	NOUN	_	_	5	obj	_	_
+7	et	_	CCONJ	_	_	8	cc	_	_
+8	cupit	_	VERB	_	_	5	conj	_	_
+9	videre	_	VERB	_	_	8	xcomp	_	_
+10	dies	_	NOUN	_	_	9	obj	_	_
+11	bonos	_	ADJ	_	_	10	amod	_	SpaceAfter=No
+12	?	_	PUNCT	_	_	3	amod	_	_
+
+# sent_id = 16
+# text = Quod si tu audiens respondeas:
+1	Quod	_	PRON	_	_	4	obj	_	_
+2	si	_	SCONJ	_	_	4	mark	_	_
+3	tu	_	PRON	_	_	4	nsubj	_	_
+4	audiens	_	VERB	_	_	5	advcl:pred	_	_
+5	respondeas	_	VERB	_	_	0	root	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	5	punct	_	_
+
+# sent_id = 17
+# text = Ego, dicit tibi Deus:
+1	Ego	_	PRON	_	_	0	root	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	dicit	_	VERB	_	_	1	parataxis	_	_
+4	tibi	_	PRON	_	_	3	obl	_	_
+5	Deus	_	NOUN	_	_	3	nsubj	_	SpaceAfter=No
+6	:	_	PUNCT	_	_	3	punct	_	_
+
+# sent_id = 18
+# text = Si vis habere veram et perpetuam vitam, prohibe linguam tuam a malo et labia tua ne loquantur dolum;
+1	Si	_	SCONJ	_	_	2	mark	_	_
+2	vis	_	VERB	_	_	9	advcl	_	_
+3	habere	_	VERB	_	_	2	xcomp	_	_
+4	veram	_	ADJ	_	_	7	amod	_	_
+5	et	_	CCONJ	_	_	6	cc	_	_
+6	perpetuam	_	ADJ	_	_	4	conj	_	_
+7	vitam	_	NOUN	_	_	3	obj	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	2	punct	_	_
+9	prohibe	_	VERB	_	_	0	root	_	_
+10	linguam	_	NOUN	_	_	9	obj	_	_
+11	tuam	_	DET	_	_	10	det	_	_
+12	a	_	ADP	_	_	13	case	_	_
+13	malo	_	ADJ	_	_	9	obl:arg	_	_
+14	et	_	CCONJ	_	_	15	cc	_	_
+15	labia	_	NOUN	_	_	10	conj	_	_
+16	tua	_	ADJ	_	_	15	amod	_	_
+17	ne	_	SCONJ	_	_	18	mark	_	_
+18	loquantur	_	VERB	_	_	9	advcl	_	_
+19	dolum	_	NOUN	_	_	18	obj	_	SpaceAfter=No
+20	;	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 19
+# text = deverte a malo et fac bonum, inquire pacem et sequere eam.
+1	deverte	_	VERB	_	_	0	root	_	_
+2	a	_	ADP	_	_	3	case	_	_
+3	malo	_	ADJ	_	_	1	obl:arg	_	_
+4	et	_	CCONJ	_	_	5	cc	_	_
+5	fac	_	VERB	_	_	1	conj	_	_
+6	bonum	_	ADJ	_	_	5	obj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	5	punct	_	_
+8	inquire	_	VERB	_	_	1	conj	_	_
+9	pacem	_	NOUN	_	_	8	obj	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	sequere	_	VERB	_	_	1	conj	_	_
+12	eam	_	PRON	_	_	11	obj	_	SpaceAfter=No
+13	.	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 20
+# text = Et cum hæc feceritis, oculi mei super vos et aures meas ad preces vestras, et antequam me invocetis, dicam vobis:
+1	Et	_	CCONJ	_	_	6	cc	_	_
+2	cum	_	SCONJ	_	_	4	mark	_	_
+3	hæc	_	PRON	_	_	4	obj	_	_
+4	feceritis	_	VERB	_	_	6	advcl	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	oculi	_	NOUN	_	_	0	root	_	_
+7	mei	_	DET	_	_	6	det	_	_
+8	super	_	ADP	_	_	9	case	_	_
+9	vos	_	PRON	_	_	6	orphan	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	aures	_	NOUN	_	_	6	conj	_	_
+12	meas	_	DET	_	_	11	det	_	_
+13	ad	_	ADP	_	_	14	case	_	_
+14	preces	_	NOUN	_	_	11	orphan	_	_
+15	vestras	_	DET	_	_	14	det	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	11	punct	_	_
+17	et	_	CCONJ	_	_	22	cc	_	_
+18	antequam	_	SCONJ	_	_	20	mark	_	_
+19	me	_	PRON	_	_	20	obj	_	_
+20	invocetis	_	VERB	_	_	22	advcl	_	SpaceAfter=No
+21	,	_	PUNCT	_	_	20	punct	_	_
+22	dicam	_	VERB	_	_	6	conj	_	_
+23	vobis	_	PRON	_	_	22	obl	_	SpaceAfter=No
+24	:	_	PUNCT	_	_	22	punct	_	_
+
+# sent_id = 21
+# text = Ecce adsum.
+1	Ecce	_	INTJ	_	_	2	discourse	_	_
+2	adsum	_	VERB	_	_	0	root	_	SpaceAfter=No
+3	.	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 22
+# text = Quid dulcius ab hac voce Domini invitantis nos, fratres carissimi?
+1	Quid	_	PRON	_	_	2	nsubj	_	_
+2	dulcius	_	ADJ	_	_	0	root	_	_
+3	ab	_	ADP	_	_	5	case	_	_
+4	hac	_	DET	_	_	5	det	_	_
+5	voce	_	NOUN	_	_	2	obl:cmp	_	_
+6	Domini	_	NOUN	_	_	5	nmod	_	_
+7	invitantis	_	VERB	_	_	6	acl	_	_
+8	nos	_	PRON	_	_	7	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	2	punct	_	_
+10	fratres	_	NOUN	_	_	2	vocative	_	_
+11	carissimi	_	ADJ	_	_	10	amod	_	SpaceAfter=No
+12	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 23
+# text = Ecce pietate sua demonstrat nobis Dominus viam vitæ.
+1	Ecce	_	INTJ	_	_	4	discourse	_	_
+2	pietate	_	NOUN	_	_	4	obl	_	_
+3	sua	_	DET	_	_	2	det	_	_
+4	demonstrat	_	VERB	_	_	0	root	_	_
+5	nobis	_	PRON	_	_	4	obl	_	_
+6	Dominus	_	NOUN	_	_	4	nsubj	_	_
+7	viam	_	NOUN	_	_	4	obj	_	_
+8	vitæ	_	NOUN	_	_	7	nmod	_	SpaceAfter=No
+9	.	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 24
+# text = Succinctis ergo fide vel observantia bonorum actuum lumbis nostris, per ducatum Evangelii pergamus itinera eius, ut mereamur eum qui nos vocavit in regnum suum videre.
+1	Succinctis	_	VERB	_	_	14	advcl:pred	_	_
+2	ergo	_	ADV	_	_	1	discourse	_	_
+3	fide	_	NOUN	_	_	1	obl:agent	_	_
+4	vel	_	CCONJ	_	_	5	cc	_	_
+5	observantia	_	NOUN	_	_	3	conj	_	_
+6	bonorum	_	ADJ	_	_	7	amod	_	_
+7	actuum	_	NOUN	_	_	5	nmod	_	_
+8	lumbis	_	NOUN	_	_	1	nsubj	_	_
+9	nostris	_	DET	_	_	8	det	_	SpaceAfter=No
+10	,	_	PUNCT	_	_	1	punct	_	_
+11	per	_	ADP	_	_	12	case	_	_
+12	ducatum	_	NOUN	_	_	14	obl	_	_
+13	Evangelii	_	NOUN	_	_	12	nmod	_	_
+14	pergamus	_	VERB	_	_	0	root	_	_
+15	itinera	_	NOUN	_	_	14	obj	_	_
+16	eius	_	PRON	_	_	15	nmod	_	SpaceAfter=No
+17	,	_	PUNCT	_	_	14	punct	_	_
+18	ut	_	SCONJ	_	_	19	mark	_	_
+19	mereamur	_	VERB	_	_	14	advcl	_	_
+20	eum	_	PRON	_	_	27	obj	_	_
+21	qui	_	PRON	_	_	23	nsubj	_	_
+22	nos	_	PRON	_	_	23	obj	_	_
+23	vocavit	_	NOUN	_	_	20	acl:relcl	_	_
+24	in	_	ADP	_	_	25	case	_	_
+25	regnum	_	NOUN	_	_	27	obl:lmod	_	_
+26	suum	_	ADJ	_	_	25	amod	_	_
+27	videre	_	VERB	_	_	19	xcomp	_	SpaceAfter=No
+28	.	_	PUNCT	_	_	27	punct	_	_
+
+# sent_id = 25
+# text = In cujus regni tabernaculo si volumus habitare, nisi illuc bonis actibus curritur, minime pervenitur.
+1	In	_	ADP	_	_	4	case	_	_
+2	cujus	_	PRON	_	_	3	nmod	_	_
+3	regni	_	NOUN	_	_	4	nmod	_	_
+4	tabernaculo	_	NOUN	_	_	7	obl:lmod	_	_
+5	si	_	SCONJ	_	_	6	mark	_	_
+6	volumus	_	VERB	_	_	16	advcl	_	_
+7	habitare	_	VERB	_	_	6	xcomp	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	6	punct	_	_
+9	nisi	_	SCONJ	_	_	13	mark	_	_
+10	illuc	_	ADV	_	_	13	advmod:lmod	_	_
+11	bonis	_	ADJ	_	_	12	amod	_	_
+12	actibus	_	VERB	_	_	13	obl	_	_
+13	curritur	_	VERB	_	_	16	advcl	_	SpaceAfter=No
+14	,	_	PUNCT	_	_	13	punct	_	_
+15	minime	_	ADV	_	_	16	advmod	_	_
+16	pervenitur	_	VERB	_	_	0	root	_	SpaceAfter=No
+17	.	_	PUNCT	_	_	16	punct	_	_
+
+# sent_id = 26
+# text = Sed interrogemus cum Propheta Dominum dicentes ei:
+1	Sed	_	CCONJ	_	_	2	cc	_	_
+2	interrogemus	_	VERB	_	_	0	root	_	_
+3	cum	_	SCONJ	_	_	4	case	_	_
+4	Propheta	_	NOUN	_	_	2	obl	_	_
+5	Dominum	_	NOUN	_	_	2	obj	_	_
+6	dicentes	_	VERB	_	_	2	advcl:pred	_	_
+7	ei	_	PRON	_	_	6	obl	_	SpaceAfter=No
+8	:	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 27
+# text = Domine, quis habitabit in tabernaculo tuo, aut quis requiescet in monte sancto tuo?
+1	Domine	_	NOUN	_	_	4	vocative	_	SpaceAfter=No
+2	,	_	PUNCT	_	_	1	punct	_	_
+3	quis	_	PRON	_	_	4	nsubj	_	_
+4	habitabit	_	VERB	_	_	0	root	_	_
+5	in	_	ADP	_	_	6	case	_	_
+6	tabernaculo	_	NOUN	_	_	4	obl:lmod	_	_
+7	tuo	_	DET	_	_	6	det	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	4	punct	_	_
+9	aut	_	CCONJ	_	_	11	cc	_	_
+10	quis	_	PRON	_	_	11	nsubj	_	_
+11	requiescet	_	VERB	_	_	4	conj	_	_
+12	in	_	ADP	_	_	13	case	_	_
+13	monte	_	NOUN	_	_	11	obl:lmod	_	_
+14	sancto	_	ADJ	_	_	13	amod	_	_
+15	tuo	_	DET	_	_	13	amod	_	SpaceAfter=No
+16	?	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 28
+# text = Post hanc interrogationem, fratres, audiamus Dominum respondentem et ostendentem nobis viam ipsius tabernaculi, dicens:
+1	Post	_	ADP	_	_	3	case	_	_
+2	hanc	_	DET	_	_	3	det	_	_
+3	interrogationem	_	NOUN	_	_	7	obl:tmod	_	SpaceAfter=No
+4	,	_	PUNCT	_	_	5	punct	_	_
+5	fratres	_	NOUN	_	_	7	vocative	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	5	punct	_	_
+7	audiamus	_	VERB	_	_	0	root	_	_
+8	Dominum	_	NOUN	_	_	7	obj	_	_
+9	respondentem	_	VERB	_	_	8	acl	_	_
+10	et	_	CCONJ	_	_	11	cc	_	_
+11	ostendentem	_	VERB	_	_	9	conj	_	_
+12	nobis	_	PRON	_	_	11	obl	_	_
+13	viam	_	NOUN	_	_	11	obj	_	_
+14	ipsius	_	DET	_	_	15	det	_	_
+15	tabernaculi	_	NOUN	_	_	13	nmod	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	11	punct	_	_
+17	dicens	_	VERB	_	_	7	advcl:pred	_	SpaceAfter=No
+18	:	_	PUNCT	_	_	17	punct	_	_
+
+# sent_id = 29
+# text = Qui ingreditur sine macula et operatur iustitiam;
+1	Qui	_	PRON	_	_	2	nsubj	_	_
+2	ingreditur	_	VERB	_	_	0	root	_	_
+3	sine	_	ADP	_	_	4	case	_	_
+4	macula	_	NOUN	_	_	2	obl	_	_
+5	et	_	CCONJ	_	_	6	cc	_	_
+6	operatur	_	VERB	_	_	2	conj	_	_
+7	iustitiam	_	NOUN	_	_	6	obj	_	SpaceAfter=No
+8	;	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 30
+# text = qui loquitur veritatem in corde suo, qui non egit dolum in lingua sua;
+1	qui	_	PRON	_	_	2	nsubj	_	_
+2	loquitur	_	VERB	_	_	0	root	_	_
+3	veritatem	_	NOUN	_	_	2	obj	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	corde	_	NOUN	_	_	2	obl:lmod	_	_
+6	suo	_	DET	_	_	5	det	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	2	punct	_	_
+8	qui	_	PRON	_	_	10	nsubj	_	_
+9	non	_	PART	_	_	10	advmod:neg	_	_
+10	egit	_	VERB	_	_	2	conj	_	_
+11	dolum	_	NOUN	_	_	10	obj	_	_
+12	in	_	ADP	_	_	13	case	_	_
+13	lingua	_	NOUN	_	_	10	obl:lmod	_	_
+14	sua	_	ADJ	_	_	13	amod	_	SpaceAfter=No
+15	;	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 31
+# text = qui non fecit proximo suo malum, qui obprobrium non accepit adversus proximum suum;
+1	qui	_	PRON	_	_	3	nsubj	_	_
+2	non	_	PART	_	_	3	advmod:neg	_	_
+3	fecit	_	VERB	_	_	0	root	_	_
+4	proximo	_	ADJ	_	_	3	obl	_	_
+5	suo	_	DET	_	_	4	det	_	_
+6	malum	_	ADJ	_	_	3	obj	_	SpaceAfter=No
+7	,	_	PUNCT	_	_	3	punct	_	_
+8	qui	_	PRON	_	_	11	nsubj	_	_
+9	obprobrium	_	NOUN	_	_	11	obj	_	_
+10	non	_	PART	_	_	11	advmod:neg	_	_
+11	accepit	_	VERB	_	_	3	conj	_	_
+12	adversus	_	ADP	_	_	13	case	_	_
+13	proximum	_	ADJ	_	_	11	obl	_	_
+14	suum	_	DET	_	_	13	det	_	SpaceAfter=No
+15	;	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 32
+# text = qui malignum diabulum aliqua suadentem sibi cum ipsa suasione sua a conspectibus cordis sui respuens deduxit ad nihilum, et parvulos cogitatos eius tenuit et adlisit ad Christum;
+1	qui	_	PRON	_	_	16	nsubj	_	_
+2	malignum	_	ADJ	_	_	3	amod	_	_
+3	diabulum	_	NOUN	_	_	16	obj	_	_
+4	aliqua	_	DET	_	_	5	obj	_	_
+5	suadentem	_	VERB	_	_	3	acl	_	_
+6	sibi	_	PRON	_	_	5	obl	_	_
+7	cum	_	ADP	_	_	9	case	_	_
+8	ipsa	_	DET	_	_	9	det	_	_
+9	suasione	_	NOUN	_	_	5	obl	_	_
+10	sua	_	DET	_	_	9	det	_	_
+11	a	_	ADP	_	_	12	case	_	_
+12	conspectibus	_	NOUN	_	_	15	obl:lmod	_	_
+13	cordis	_	NOUN	_	_	12	nmod	_	_
+14	sui	_	DET	_	_	13	det	_	_
+15	respuens	_	VERB	_	_	16	advcl:pred	_	_
+16	deduxit	_	VERB	_	_	0	root	_	_
+17	ad	_	ADP	_	_	18	case	_	_
+18	nihilum	_	NOUN	_	_	16	obl:lmod	_	SpaceAfter=No
+19	,	_	PUNCT	_	_	16	punct	_	_
+20	et	_	CCONJ	_	_	24	cc	_	_
+21	parvulos	_	ADJ	_	_	22	amod	_	_
+22	cogitatos	_	NOUN	_	_	24	obj	_	_
+23	eius	_	PRON	_	_	22	nmod	_	_
+24	tenuit	_	VERB	_	_	16	conj	_	_
+25	et	_	CCONJ	_	_	26	cc	_	_
+26	adlisit	_	VERB	_	_	24	conj	_	_
+27	ad	_	ADP	_	_	28	case	_	_
+28	Christum	_	NOUN	_	_	26	obl	_	SpaceAfter=No
+29	;	_	PUNCT	_	_	26	punct	_	_
+
+# sent_id = 33
+# text = qui timentes Dominum de bona observantia sua non se reddunt elatos, sed ipsa in se bona non a se posse, sed a Domino fieri existimantes, operantem in se Dominum magnificant, illud cum Propheta dicentes:
+1	qui	_	PRON	_	_	10	nsubj	_	_
+2	timentes	_	VERB	_	_	10	advcl	_	_
+3	Dominum	_	NOUN	_	_	2	obj	_	_
+4	de	_	ADP	_	_	6	case	_	_
+5	bona	_	ADJ	_	_	6	amod	_	_
+6	observantia	_	NOUN	_	_	10	obl	_	_
+7	sua	_	DET	_	_	6	det	_	_
+8	non	_	PART	_	_	10	advmod:neg	_	_
+9	se	_	PRON	_	_	10	obj	_	_
+10	reddunt	_	VERB	_	_	0	root	_	_
+11	elatos	_	VERB	_	_	10	xcomp	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	10	punct	_	_
+13	sed	_	CCONJ	_	_	33	cc	_	_
+14	ipsa	_	DET	_	_	17	det	_	_
+15	in	_	ADP	_	_	16	case	_	_
+16	se	_	PRON	_	_	17	obl:lmod	_	_
+17	bona	_	ADJ	_	_	21	nsubj	_	_
+18	non	_	PART	_	_	20	advmod:neg	_	_
+19	a	_	ADP	_	_	20	case	_	_
+20	se	_	PRON	_	_	26	obl	_	_
+21	posse	_	VERB	_	_	27	ccomp	_	SpaceAfter=No
+22	,	_	PUNCT	_	_	25	punct	_	_
+23	sed	_	CCONJ	_	_	25	cc	_	_
+24	a	_	ADP	_	_	25	case	_	_
+25	Domino	_	NOUN	_	_	20	conj	_	_
+26	fieri	_	VERB	_	_	21	xcomp	_	_
+27	existimantes	_	VERB	_	_	33	advcl	_	SpaceAfter=No
+28	,	_	PUNCT	_	_	27	punct	_	_
+29	operantem	_	VERB	_	_	32	acl	_	_
+30	in	_	ADP	_	_	31	case	_	_
+31	se	_	PRON	_	_	29	obl:lmod	_	_
+32	Dominum	_	NOUN	_	_	33	obl	_	_
+33	magnificant	_	VERB	_	_	10	conj	_	SpaceAfter=No
+34	,	_	PUNCT	_	_	33	punct	_	_
+35	illud	_	PRON	_	_	38	obj	_	_
+36	cum	_	ADP	_	_	37	case	_	_
+37	Propheta	_	NOUN	_	_	38	obl	_	_
+38	dicentes	_	VERB	_	_	33	advcl:pred	_	SpaceAfter=No
+39	:	_	PUNCT	_	_	38	punct	_	_
+
+# sent_id = 34
+# text = Non nobis, Domine, non nobis, sed nomini tuo da gloriam;
+1	Non	_	PART	_	_	2	advmod:neg	_	_
+2	nobis	_	PRON	_	_	12	obl	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	4	punct	_	_
+4	Domine	_	NOUN	_	_	12	vocative	_	SpaceAfter=No
+5	,	_	PUNCT	_	_	4	punct	_	_
+6	non	_	PART	_	_	7	advmod:neg	_	_
+7	nobis	_	PRON	_	_	2	conj	_	SpaceAfter=No
+8	,	_	PUNCT	_	_	7	punct	_	_
+9	sed	_	CCONJ	_	_	10	cc	_	_
+10	nomini	_	NOUN	_	_	2	conj	_	_
+11	tuo	_	DET	_	_	10	det	_	_
+12	da	_	VERB	_	_	0	root	_	_
+13	gloriam	_	NOUN	_	_	12	obj	_	SpaceAfter=No
+14	;	_	PUNCT	_	_	12	punct	_	_
+
+# sent_id = 35
+# text = sicut nec Paulus Apostolus de prædicatione sua sibi aliquid inputavit dicens:
+1	sicut	_	SCONJ	_	_	10	mark	_	_
+2	nec	_	ADV	_	_	10	advmod:neg	_	_
+3	Paulus	_	NOUN	_	_	10	nsubj	_	_
+4	Apostolus	_	NOUN	_	_	3	appos	_	_
+5	de	_	ADP	_	_	6	case	_	_
+6	prædicatione	_	NOUN	_	_	10	obl	_	_
+7	sua	_	DET	_	_	6	det	_	_
+8	sibi	_	PRON	_	_	10	obl	_	_
+9	aliquid	_	PRON	_	_	10	obj	_	_
+10	inputavit	_	VERB	_	_	0	root	_	_
+11	dicens	_	VERB	_	_	10	advcl	_	SpaceAfter=No
+12	:	_	PUNCT	_	_	11	punct	_	_
+
+# sent_id = 36
+# text = Gloria Dei sum id quod sum;
+1	Gloria	_	NOUN	_	_	4	obl	_	_
+2	Dei	_	NOUN	_	_	1	nmod	_	_
+3	sum	_	AUX	_	_	4	cop	_	_
+4	id	_	PRON	_	_	0	root	_	_
+5	quod	_	PRON	_	_	6	nsubj	_	_
+6	sum	_	AUX	_	_	4	acl:relcl	_	SpaceAfter=No
+7	;	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 37
+# text = et iterum ipse dicit:
+1	et	_	CCONJ	_	_	4	cc	_	_
+2	iterum	_	ADV	_	_	4	advmod:tmod	_	_
+3	ipse	_	DET	_	_	4	nsubj	_	_
+4	dicit	_	VERB	_	_	0	root	_	SpaceAfter=No
+5	:	_	PUNCT	_	_	4	punct	_	_
+
+# sent_id = 38
+# text = Qui gloriatur, in Domino glorietur.
+1	Qui	_	PRON	_	_	2	nsubj	_	_
+2	gloriatur	_	VERB	_	_	6	orphan	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	2	punct	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	Domino	_	NOUN	_	_	6	obl	_	_
+6	glorietur	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	.	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 39
+# text = Unde et Dominus in Evangelio ait:
+1	Unde	_	ADV	_	_	6	advmod:lmod	_	_
+2	et	_	ADV	_	_	3	advmod:emph	_	_
+3	Dominus	_	NOUN	_	_	6	nsubj	_	_
+4	in	_	ADP	_	_	5	case	_	_
+5	Evangelio	_	NOUN	_	_	6	obl:lmod	_	_
+6	ait	_	VERB	_	_	0	root	_	SpaceAfter=No
+7	:	_	PUNCT	_	_	6	punct	_	_
+
+# sent_id = 40
+# text = Qui audit verba mea hæc et facit ea, similabo eum viro sapienti qui ædificavit domum suam super petram;
+1	Qui	_	PRON	_	_	2	nsubj	_	_
+2	audit	_	VERB	_	_	11	acl	_	_
+3	verba	_	NOUN	_	_	2	obj	_	_
+4	mea	_	DET	_	_	3	det	_	_
+5	hæc	_	DET	_	_	3	det	_	_
+6	et	_	CCONJ	_	_	7	cc	_	_
+7	facit	_	VERB	_	_	2	conj	_	_
+8	ea	_	DET	_	_	7	obj	_	SpaceAfter=No
+9	,	_	PUNCT	_	_	2	punct	_	_
+10	similabo	_	VERB	_	_	0	root	_	_
+11	eum	_	PRON	_	_	10	obj	_	_
+12	viro	_	NOUN	_	_	10	obl	_	_
+13	sapienti	_	ADJ	_	_	12	amod	_	_
+14	qui	_	PRON	_	_	15	nsubj	_	_
+15	ædificavit	_	VERB	_	_	12	acl	_	_
+16	domum	_	NOUN	_	_	15	obj	_	_
+17	suam	_	DET	_	_	16	det	_	_
+18	super	_	ADP	_	_	19	case	_	_
+19	petram	_	NOUN	_	_	15	obl:lmod	_	SpaceAfter=No
+20	;	_	PUNCT	_	_	10	punct	_	_
+
+# sent_id = 41
+# text = venerunt flumina, flaverunt venti, et inpegerunt in domum illam, et non cecidit, quia fundata erat super petram.
+1	venerunt	_	VERB	_	_	0	root	_	_
+2	flumina	_	NOUN	_	_	1	nsubj	_	SpaceAfter=No
+3	,	_	PUNCT	_	_	1	punct	_	_
+4	flaverunt	_	VERB	_	_	1	conj	_	_
+5	venti	_	NOUN	_	_	4	nsubj	_	SpaceAfter=No
+6	,	_	PUNCT	_	_	4	punct	_	_
+7	et	_	CCONJ	_	_	8	cc	_	_
+8	inpegerunt	_	VERB	_	_	4	conj	_	_
+9	in	_	ADP	_	_	10	case	_	_
+10	domum	_	NOUN	_	_	8	obl:lmod	_	_
+11	illam	_	DET	_	_	10	det	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	8	punct	_	_
+13	et	_	CCONJ	_	_	15	cc	_	_
+14	non	_	PART	_	_	15	advmod:neg	_	_
+15	cecidit	_	VERB	_	_	1	conj	_	SpaceAfter=No
+16	,	_	PUNCT	_	_	15	punct	_	_
+17	quia	_	SCONJ	_	_	18	mark	_	_
+18	fundata	_	VERB	_	_	15	advcl	_	_
+19	erat	_	AUX	_	_	18	aux:pass	_	_
+20	super	_	ADP	_	_	21	case	_	_
+21	petram	_	NOUN	_	_	18	obl	_	SpaceAfter=No
+22	.	_	PUNCT	_	_	18	punct	_	_
+
+# sent_id = 42
+# text = Hæc conplens Dominus expectat nos cotidie his suis sanctis monitis factis nos respondere debere.
+1	Hæc	_	PRON	_	_	2	obj	_	_
+2	conplens	_	VERB	_	_	4	advcl	_	_
+3	Dominus	_	NOUN	_	_	4	nsubj	_	_
+4	expectat	_	VERB	_	_	0	root	_	_
+5	nos	_	PRON	_	_	14	nsubj	_	_
+6	cotidie	_	ADV	_	_	13	advmod:tmod	_	_
+7	his	_	DET	_	_	10	det	_	_
+8	suis	_	DET	_	_	10	det	_	_
+9	sanctis	_	ADJ	_	_	10	amod	_	_
+10	monitis	_	NOUN	_	_	13	obl	_	_
+11	factis	_	VERB	_	_	13	obl	_	_
+12	nos	_	PRON	_	_	13	nsubj	_	_
+13	respondere	_	VERB	_	_	14	xcomp	_	_
+14	debere	_	VERB	_	_	4	ccomp	_	SpaceAfter=No
+15	.	_	PUNCT	_	_	14	punct	_	_
+
+# sent_id = 43
+# text = Ideo nobis propter emendationem malorum huius vitæ dies ad indutias relaxantur, dicente Apostolo:
+1	Ideo	_	ADV	_	_	11	advmod	_	_
+2	nobis	_	PRON	_	_	11	obl	_	_
+3	propter	_	ADP	_	_	4	case	_	_
+4	emendationem	_	NOUN	_	_	11	obl	_	_
+5	malorum	_	NOUN	_	_	4	nmod	_	_
+6	huius	_	DET	_	_	7	det	_	_
+7	vitæ	_	NOUN	_	_	8	nmod	_	_
+8	dies	_	NOUN	_	_	11	nsubj:pass	_	_
+9	ad	_	ADP	_	_	10	case	_	_
+10	indutias	_	NOUN	_	_	11	obl	_	_
+11	relaxantur	_	VERB	_	_	0	root	_	SpaceAfter=No
+12	,	_	PUNCT	_	_	11	punct	_	_
+13	dicente	_	VERB	_	_	11	advcl:abs	_	_
+14	Apostolo	_	NOUN	_	_	13	nsubj	_	SpaceAfter=No
+15	:	_	PUNCT	_	_	13	punct	_	_
+
+# sent_id = 44
+# text = An nescis quia patientia Dei ad pænitentiam te adducit?
+1	An	_	PART	_	_	2	cc	_	_
+2	nescis	_	VERB	_	_	0	root	_	_
+3	quia	_	SCONJ	_	_	9	mark	_	_
+4	patientia	_	NOUN	_	_	9	nsubj	_	_
+5	Dei	_	NOUN	_	_	4	nmod	_	_
+6	ad	_	ADP	_	_	7	case	_	_
+7	pænitentiam	_	NOUN	_	_	9	obl	_	_
+8	te	_	PRON	_	_	9	obj	_	_
+9	adducit	_	VERB	_	_	2	ccomp	_	SpaceAfter=No
+10	?	_	PUNCT	_	_	2	punct	_	_
+
+# sent_id = 45
+# text = Nam pius
+1	Nam	_	ADV	_	_	2	advmod	_	_
+2	pius	_	ADJ	_	_	0	root	_	_
+
